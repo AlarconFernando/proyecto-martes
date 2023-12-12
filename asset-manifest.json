@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/proyecto-martes/static/css/main.1933a82d.css",
+    "main.js": "/proyecto-martes/static/js/main.ab35e062.js",
+    "static/media/bib1.jpg": "/proyecto-martes/static/media/bib1.c0a0172d2fcf4b8949b8.jpg",
+    "static/media/bib2.png": "/proyecto-martes/static/media/bib2.f7984009d9c64f839e34.png",
+    "static/media/c2.jpg": "/proyecto-martes/static/media/c2.1ad957bccb97686b5724.jpg",
+    "static/media/suc2.jpg": "/proyecto-martes/static/media/suc2.73e7808e1b03c19cddd0.jpg",
+    "static/media/con1.jpg": "/proyecto-martes/static/media/con1.548be7c324dd6d617bf2.jpg",
+    "static/media/con2.jpg": "/proyecto-martes/static/media/con2.2120a136e1d883a26230.jpg",
+    "static/media/con3.jpg": "/proyecto-martes/static/media/con3.345222796ad2f64acfcc.jpg",
+    "static/media/con4.jpg": "/proyecto-martes/static/media/con4.274728acbf003c9d066f.jpg",
+    "static/media/app3.jpg": "/proyecto-martes/static/media/app3.f045d7b99fa6d0b8c247.jpg",
+    "static/media/suc4.jpg": "/proyecto-martes/static/media/suc4.65291b2173bfd95ae8c7.jpg",
+    "static/media/suc3.jpg": "/proyecto-martes/static/media/suc3.111791a46af12e8cebf0.jpg",
+    "static/media/d5.webp": "/proyecto-martes/static/media/d5.92f13b783a28359f4a89.webp",
+    "static/media/d6.webp": "/proyecto-martes/static/media/d6.4a7930652801898caed0.webp",
+    "static/media/d4.webp": "/proyecto-martes/static/media/d4.206ead4e41d40a6d10f4.webp",
+    "static/media/d1.webp": "/proyecto-martes/static/media/d1.9de47ffb4d66dc23f796.webp",
+    "static/media/creditos.jpg": "/proyecto-martes/static/media/creditos.f77d2274a227945a42a8.jpg",
+    "static/media/d2.webp": "/proyecto-martes/static/media/d2.baa4fdd2fbaa11886e81.webp",
+    "static/media/bib3.jpeg": "/proyecto-martes/static/media/bib3.922796a64f7d24a3b1f1.jpeg",
+    "static/media/c1.jpg": "/proyecto-martes/static/media/c1.b563e593a558617b2f9c.jpg",
+    "static/media/app1.jpg": "/proyecto-martes/static/media/app1.598ea5cb243c63b4ece4.jpg",
+    "static/media/app2.webp": "/proyecto-martes/static/media/app2.b51507407169f69b6b3b.webp",
+    "static/media/c3.jpg": "/proyecto-martes/static/media/c3.6fea412523d1929355d1.jpg",
+    "static/media/d3.webp": "/proyecto-martes/static/media/d3.678c99e8186d9bf2d1de.webp",
+    "static/media/suc1.jpg": "/proyecto-martes/static/media/suc1.85071cc5a5c3ff5a6ef6.jpg",
+    "index.html": "/proyecto-martes/index.html",
+    "main.1933a82d.css.map": "/proyecto-martes/static/css/main.1933a82d.css.map",
+    "main.ab35e062.js.map": "/proyecto-martes/static/js/main.ab35e062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1933a82d.css",
+    "static/js/main.ab35e062.js"
+  ]
+}
